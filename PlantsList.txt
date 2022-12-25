@@ -1,0 +1,47 @@
+Artichoke
+Asparagus
+Bush Bean
+Pole Bean
+Beet
+Broccoli
+Brussels Sprouts
+Cabbage
+Carrot
+Cauliflower
+Celeriac
+Celery
+Chard
+Collards
+Corn
+Cucumber
+Eggplant
+Endive
+Gourds
+Kale
+Kohlrabi
+Leek
+Lettuce
+Melon
+Mustard
+Okra
+Onion
+Orach
+Parsnip
+Pea
+Pepper
+Pumpkin
+Purslane
+Radicchio
+Spring Radish
+Winter Radish
+Rhubarb
+Rutabaga
+Salsify
+Spinach
+Squash
+Summer Squash
+Winter Squash
+Strawberry
+Tomato
+Turnip
+Watermelon
