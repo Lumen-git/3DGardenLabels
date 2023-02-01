@@ -1,7 +1,6 @@
 Artichoke
 Asparagus
-Bush Bean
-Pole Bean
+Bean
 Beet
 Broccoli
 Brussels Sprouts
@@ -15,11 +14,9 @@ Collards
 Corn
 Cucumber
 Eggplant
-Endive
 Gourds
 Herb
 Kale
-Kohlrabi
 Leek
 Lettuce
 Melon
@@ -33,17 +30,24 @@ Pepper
 Pumpkin
 Purslane
 Radicchio
-Spring Radish
-Winter Radish
+Radish
 Rhubarb
 Rutabaga
 Salsify
 Spinach
 Squash
-Summer Squash
-Winter Squash
 Strawberry
 Tomato
 Turnip
 Watermelon
+
+Basil
+Cilantro
+Dill
+Mint
+Oregano
+Parsley
+Rosemary
+Thyme
+Chives
 
