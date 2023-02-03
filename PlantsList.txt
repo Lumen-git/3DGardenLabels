@@ -7,9 +7,7 @@ Brussels Sprouts
 Cabbage
 Carrot
 Cauliflower
-Celeriac
 Celery
-Chard
 Collards
 Corn
 Cucumber
@@ -23,17 +21,13 @@ Melon
 Mustard
 Okra
 Onion
-Orach
 Parsnip
 Pea
 Pepper
 Pumpkin
-Purslane
-Radicchio
 Radish
 Rhubarb
 Rutabaga
-Salsify
 Spinach
 Squash
 Strawberry
