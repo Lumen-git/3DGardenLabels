@@ -1,6 +1,8 @@
 # 3DGardenLabels
  Lovely 3D label stakes ready for your garden!
 
+<img src="images/img1.png" width=400><img src="images/img2.png" width=400>
+
 These garden labels are designed to show off the plant's main type in an interesting and easy to see way, while leaving room to write the specific species of plant on the main stake. The stakes are long enough to stick into the ground without getting lost in the garden.
 
 **GardenStakesAll.ai** is an illustrator file that contains all of the labels laid out in one document
